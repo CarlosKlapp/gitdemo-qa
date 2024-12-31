@@ -1,0 +1,1 @@
+CREATE OR REPLACE view views.test as select 'foo' as col1 OPTION $NOFAIL;;
